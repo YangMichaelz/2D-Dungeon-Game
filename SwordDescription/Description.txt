@@ -1,0 +1,28 @@
+Blood Thirster.png
+60
+Regenerates 30 HP upon hitting an enemy.
+3250
+Blue Crystal Sword.png
+70
+Has a 50% chance to deal 140 damage.
+3000
+Galaxy Sword.png
+60
+Has a 20% chance to stun an enemy for 2 seconds.
+2950
+Golden Sword.png
+75
+None
+1750
+Great Sword.png
+55
+None
+1250
+Iron Sword.png
+35
+None
+550
+Starter Sword.png
+15
+None
+0
